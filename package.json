@@ -18,7 +18,7 @@
     "firebase": "^9.6.11",
     "js-cookie": "^3.0.1",
     "jwt-decode": "^3.1.2",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.4.0",
     "nuxt-fontawesome": "^0.4.0",
     "sweetalert": "^2.1.2",
     "sweetalert2": "^11.4.9",
